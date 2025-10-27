@@ -3,7 +3,7 @@
 <div align="center">
   <h3>
     This web page is hosted
-    <a href="https://nitin-rawat01.github.io/404-not-Found/">
+    <a href="https://nitin-rawat01.github.io/weather-app/">
       here!
     </a>
   </h3>
